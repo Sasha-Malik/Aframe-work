@@ -1,4 +1,4 @@
-window.location.href = "https://sasha-malik.github.io/Aframe-work/";
+
 
 var c1 = document.querySelector('#c1');
 
