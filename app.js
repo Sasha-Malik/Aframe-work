@@ -1,3 +1,5 @@
+window.location.href = "https://sasha-malik.github.io/Aframe-work/";
+
 var c1 = document.querySelector('#c1');
 
 c1.addEventListener('click', function (e) {
