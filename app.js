@@ -9,7 +9,7 @@ c1.addEventListener('click', function (e) {
   var c2 = document.querySelector('#c2');
 
 c2.addEventListener('click', function (e) {
-    window.location.href = "https://sasha-malik.github.io/Assignments-Connections-Lab/Assignment4/";
+    window.location.href = "https://sasha-malik.github.io/Compatibility-Test/";
   });
 
 
